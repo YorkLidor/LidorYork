@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lidor York 👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full stack / front end developer</h3>
 
 - 🎓 BA in Business Administration & Coding Academy Full Stack Bootcamp💻
 - 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
