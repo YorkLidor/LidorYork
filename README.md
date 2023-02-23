@@ -4,13 +4,13 @@
 - 🎓 BA in Business Administration & Coding Academy Full Stack Bootcamp💻
 
 - 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
-- 
+
 - 🎯 High self-disciplined with a constant drive for professional excellence.
-- 
+
 - 🏆 I recently built a clone of Trello, check it out, it has everything! [Shmello](https://shmello.onrender.com/)
-- 
+
 - 📫 You can reach me at yorklidor@gmail.com
-- 
+
 - 💙 Fun fact about me: I love meditation, tennis, and training🏃‍♂️
 
 <h3 align="left">Connect with me:</h3>
