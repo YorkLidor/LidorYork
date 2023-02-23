@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lidor York 👋</h1>
-<h3 align="center">Full stack / front end developer</h3>
+<h3 align="center">A Full stack / Front end developer</h3>
 
 - 🎓 BA in Business Administration & Coding Academy Full Stack Bootcamp💻
 
