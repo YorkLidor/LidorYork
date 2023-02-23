@@ -2,14 +2,20 @@
 <h3 align="center">Full stack / front end developer</h3>
 
 - 🎓 BA in Business Administration & Coding Academy Full Stack Bootcamp💻
+
 - 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
+- 
 - 🎯 High self-disciplined with a constant drive for professional excellence.
+- 
 - 🏆 I recently built a clone of Trello, check it out, it has everything! [Shmello](https://shmello.onrender.com/)
+- 
 - 📫 You can reach me at yorklidor@gmail.com
+- 
 - 💙 Fun fact about me: I love meditation, tennis, and training🏃‍♂️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lidor-york-440b59197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lidor-york-440b59197/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
